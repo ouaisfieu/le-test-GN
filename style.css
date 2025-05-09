@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  color: #00FF99;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  padding: 40px;
+}
+
+a.start-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  border: 2px solid #FF66FF;
+  color: #FF66FF;
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+a.start-button:hover {
+  background-color: #FF66FF;
+  color: black;
+}
